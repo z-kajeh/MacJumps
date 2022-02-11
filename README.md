@@ -1,4 +1,2 @@
 # MacJumps
 Updates
-
-Hello
